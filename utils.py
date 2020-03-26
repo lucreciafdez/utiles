@@ -25,7 +25,7 @@ def get_header(app):
             html.Div(
                 [
                     html.Div(
-                        [html.H5("Proveedores Remedios")],
+                        [html.H5("Proveedores Artículos Escolares")],
                         className="seven columns main-title",
                     ),
                     html.Div(
