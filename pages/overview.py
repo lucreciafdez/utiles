@@ -29,7 +29,7 @@ def create_layout(app):
                         [
                             html.Div(
                                 [
-                                    html.H5("Colusión en la compra de Ibuprofeno"),
+                                    html.H5("Compra de cuadernos escolares con precios triplicados"),
                                     html.Br([]),
                                     html.P(
                                         "\
